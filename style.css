@@ -4,6 +4,9 @@ body{
 
 h1{
     color: rgb(112, 112, 112);
+    font-style: italic;
+    font-family: cursive;
+    font-size:26px ;
 }
  html,body{
     width: 100%;
