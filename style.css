@@ -5,3 +5,7 @@ body{
 h1{
     color: rgb(219, 124, 111);
 }
+ html,body{
+    width: 100%;
+    height: 100%;
+ }
